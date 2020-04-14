@@ -1,1 +1,1 @@
-# shiny-garbanzo
+# Pandemic project
